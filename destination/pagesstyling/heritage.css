@@ -105,7 +105,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/heritage/darjeeling.jpg);
+          url(.../heritage/darjeeling.jpg);
       }
       #img1:hover{
         transform:scale(1.3);
