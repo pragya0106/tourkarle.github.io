@@ -104,7 +104,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/popular/chennai.jpg);
+          url(../images/popular/chennai.jpg);
       }
       #img1:hover{
         transform:scale(1.3);
@@ -115,7 +115,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/popular/Goa.jpg);
+          url(../images/popular/Goa.jpg);
       }
       #img2:hover{
         transform:scale(1.3);
@@ -126,7 +126,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/popular/hyderabad.jpg);
+          url(../images/popular/hyderabad.jpg);
       }
       #img3:hover{
         transform:scale(1.3);
@@ -137,7 +137,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/popular/kochi.jpg);
+          url(../images/popular/kochi.jpg);
       }
       #img4:hover{
         transform:scale(1.3);
@@ -148,7 +148,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/popular/kolkata.jpg);
+          url(../images/popular/kolkata.jpg);
       }
       #img5:hover{
         transform:scale(1.3);
@@ -159,7 +159,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(./destination/images/popular/mumbai.jpg);
+          url(../images/popular/mumbai.jpg);
       }
       #img6:hover{
         transform:scale(1.3);
