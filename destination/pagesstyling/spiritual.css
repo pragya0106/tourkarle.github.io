@@ -104,7 +104,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(/destination/images/spiritual/amritsar.jpg);
+          url(./destination/images/spiritual/amritsar.jpg);
       }
       #img1:hover{
         transform:scale(1.3);
@@ -115,7 +115,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(/destination/images/spiritual/ayodhya.jpg);
+          url(./destination/images/spiritual/ayodhya.jpg);
       }
       #img2:hover{
         transform:scale(1.3);
@@ -126,7 +126,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(/destination/images/spiritual/kedarnath.jpg);
+          url(./destination/images/spiritual/kedarnath.jpg);
       }
       #img3:hover{
         transform:scale(1.3);
@@ -137,7 +137,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(/destination/images/spiritual/tirupati.jpg);
+          url(./destination/images/spiritual/tirupati.jpg);
       }
       #img4:hover{
         transform:scale(1.3);
@@ -148,7 +148,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(/destination/images/spiritual/varanasi.jpg);
+          url(./destination/images/spiritual/varanasi.jpg);
       }
       #img5:hover{
         transform:scale(1.3);
@@ -159,7 +159,7 @@
             rgba(48, 48, 49, 0.7),
             rgba(48, 48, 49, 0.7)
           ),
-          url(/destination/images/spiritual/vrindavan.jpg);
+          url(./destination/images/spiritual/vrindavan.jpg);
       }
       #img6:hover{
         transform:scale(1.3);
